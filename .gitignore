@@ -1,0 +1,25 @@
+# Large datasets
+data/spain.csv
+data/*.zip
+data/*.bin
+
+# Generated outputs
+examples/*.txt
+examples/*.html
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+# Build artifacts
+build_graph
+astar
+*.o
