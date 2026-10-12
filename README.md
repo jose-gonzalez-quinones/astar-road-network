@@ -13,7 +13,7 @@ The A* implementation uses geographic distance calculated with the Haversine for
 The resulting route can be visualized on an interactive map using Python and Folium.
 
 # Project structure
-
+```text
 astar-road-network/
 ├── data/
 │   └── README.md
@@ -27,6 +27,7 @@ astar-road-network/
 ├── Makefile
 ├── requirements.txt
 └── README.md
+```
 
 # Technical highlights
 
